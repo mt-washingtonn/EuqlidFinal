@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">euqlidnew</string>
+    <string name="title_activity_main">euqlidnew</string>
+    <string name="package_name">ionic.euqlidnew</string>
+    <string name="custom_url_scheme">ionic.euqlidnew</string>
+</resources>
